@@ -30,4 +30,5 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 
-useful link for now: https://reactrouter.com/en/main/start/tutorial
+* Useful link for now: https://reactrouter.com/en/main/start/tutorial
+* Using a dev branch too
