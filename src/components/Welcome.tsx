@@ -1,5 +1,6 @@
 import Shark from "../imgs/shark-teste.jpg"
 import "../css/main.css"
+// import "../../../3000/"
 
 export default function Welcome() {
   return (
